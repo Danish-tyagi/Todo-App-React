@@ -51,14 +51,11 @@ npm run dev
 
 🌐 Live Demo
 
-Click here to view the app
+https://todo-appp-reactt.netlify.app/
 
-
----
 
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 
----
