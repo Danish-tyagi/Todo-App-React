@@ -32,7 +32,7 @@ This app provides features like adding, editing, completing, and deleting tasks 
 
 Clone the repository:
 ```bash
-git clone https://github.com/Danish-tyagi/Todo-App-React.git
+git clone [https://github.com/Danish-tyagi/Todo-App-React.git]
 
 Navigate to the project folder:
 
@@ -49,13 +49,14 @@ npm run dev
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-https://todo-appp-reactt.netlify.app/
+[https://todo-appp-reactt.netlify.app/]
 
+---
 
-🤝 Contributing
+##🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
+---
 
