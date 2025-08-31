@@ -28,6 +28,17 @@ This app provides features like adding, editing, completing, and deleting tasks 
 
 ---
 
+## 🌐 Live Demo
+
+[https://todo-appp-reactt.netlify.app/]
+
+---
+
+##🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+---
+
 ## 📂 Installation & Setup
 
 Clone the repository:
@@ -48,15 +59,3 @@ npm run dev
 
 
 ---
-
-## 🌐 Live Demo
-
-[https://todo-appp-reactt.netlify.app/]
-
----
-
-##🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
----
-
