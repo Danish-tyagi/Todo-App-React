@@ -1,0 +1,36 @@
+#input{
+    height: 50px;
+    width: 340px;
+    padding-left: 10px;
+    border: 2px solid purple;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: larger;
+}
+#btn {
+    color: white;
+    background-color: rgb(150, 20, 150);
+    border: 2px solid  rgb(150, 20, 150);
+
+}
+body{
+    background-color: rgb(160, 7, 160);
+}
+.cont{
+    background-color: white;
+    padding: 60px;
+}
+.list{
+    padding-right: 5px;
+    font-size: large;
+    font-weight: 600;
+}
+.btn1{
+    margin: 3px;
+    margin-right: 5px;
+}
+.addbtn{
+    height: 50px;
+    width: 300px;
+}
