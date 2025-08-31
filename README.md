@@ -37,6 +37,10 @@ This app provides features like adding, editing, completing, and deleting tasks 
 ##🤝 Contributing
 
   Contributions are welcome! Feel free to fork this repo and submit a pull request
+
+
+
+  
 ---
 
 
@@ -60,5 +64,3 @@ Run the development server:
 
 npm run dev
 
-
----
