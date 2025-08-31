@@ -36,8 +36,11 @@ This app provides features like adding, editing, completing, and deleting tasks 
 
 ##🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
+  Contributions are welcome! Feel free to fork this repo and submit a pull request
 ---
+
+
+
 
 ## 📂 Installation & Setup
 
