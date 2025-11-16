@@ -16,6 +16,8 @@
 }
 body{
     background-color: rgb(160, 7, 160);
+    width: 100%;
+    max-width: 720px;
 }
 .cont{
     background-color: white;
