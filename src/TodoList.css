@@ -18,7 +18,8 @@ body{
     background-color: rgb(160, 7, 160);
 }
 .cont{
-    background-color: black;
+    background-color: white;
+    color: black;
     padding: 60px;
 }
 .list{
